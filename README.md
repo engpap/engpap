@@ -25,8 +25,6 @@ Feel free to ask about mobile development or anything else within my field of ex
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
