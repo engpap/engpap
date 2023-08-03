@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Andrea
 
-I'm a software engineer with a passion for mobile and web development, recommender systems, and multi-GPU computing. Currently, I'm pursuing my studies at Politecnico di Milano and working towards a double degree at the University of Illinois at Chicago. My academic journey is focused on a Master of Science in Computer Science.
+I'm a software engineer with a passion for mobile and web development, recommender systems, and multi-GPU computing. Currently, I'm pursuing a Master of Science in Computer Science at Politecnico di Milano and working towards a double degree at the University of Illinois at Chicago.
 
 ## 🔭 What I'm working on
 
-At present, my primary focus is the development of a mobile application that helps users discover and learn new things.
+At present, my primary focus is the development of a cross-platform mobile application that helps users discover and learn new things by providing AI-generated chunks of information.
 
 ## 🌱 I'm currently learning
 
@@ -16,7 +16,7 @@ I'm excited to collaborate on projects involving web and mobile development fram
 
 ## 💬 Ask me about
 
-Feel free to ask about mobile development or anything else within my field of expertise. I'm always happy to engage in conversation.
+Feel free to ask about mobile development, ML, or anything else within my field of expertise. I'm always happy to engage in conversation.
 
 ## 📫 How to reach me
 
