@@ -40,6 +40,10 @@ Feel free to ask about mobile development, ML, or anything else within my field 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![VHDL](https://img.shields.io/badge/-VHDL-543978?style=flat)
 
+## 🔢 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engpap&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)
+
 ## 🎉 Fun Fact
 
 I have a keen interest in geopolitics and enjoy engaging in discussions about international relations.
