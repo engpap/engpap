@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andrea
+# Hi there 👋, I'm Andrew
 
 I'm a software engineer with a passion for mobile and web development, recommender systems, and multi-GPU computing. Currently, I'm pursuing a Master of Science in Computer Science and Engineering at Politecnico di Milano and working towards a double degree at the University of Illinois at Chicago.
 
