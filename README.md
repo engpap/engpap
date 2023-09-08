@@ -4,7 +4,7 @@ I'm a software engineer with a passion for mobile and web development, recommend
 
 ## 🔭 What I'm working on
 
-At present, my primary focus is the development of a cross-platform mobile application that helps users discover and learn new things by providing AI-generated chunks of information.
+At present, my primary focus is the development of a cross-platform mobile application that helps users discover and learn new things by providing AI-generated chunks of information. Check it out [here.](https://impara.typedream.app/)
 
 ## 🌱 I'm currently learning
 
