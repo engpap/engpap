@@ -47,7 +47,3 @@ Feel free to ask about mobile development, ML, or anything else within my field 
 ## 🎉 Fun Fact
 
 I have a keen interest in geopolitics and enjoy engaging in discussions about international relations.
-
----
-
-I warmly welcome connections and collaboration. Thank you for visiting my GitHub profile!
