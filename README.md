@@ -1,27 +1,11 @@
 # Hi there 👋, I'm Andrew
 
-I'm a software engineer with a passion for mobile and web development, recommender systems, and multi-GPU computing. Currently, I'm pursuing a Master of Science in Computer Science and Engineering at Politecnico di Milano and working towards a double degree at the University of Illinois at Chicago.
+Software engineer passionate about mobile/web development, ML, and multi-GPU computing. Pursuing M.Sc in Computer Science at Politecnico di Milano and the University of Illinois at Chicago.
 
-## 🔭 What I'm working on
-
-At present, my primary focus is the development of a cross-platform mobile application that helps users discover and learn new things by providing AI-generated chunks of information. Check it out [here.](https://impara.typedream.app/)
-
-## 🌱 I'm currently learning
-
-I'm actively enhancing my proficiency in Golang and Flutter, aiming to integrate them into my current and future projects.
-
-## 👯 I'm looking to collaborate on
-
-I'm excited to collaborate on projects involving web and mobile development frameworks, and I'm also open to machine learning projects.
-
-## 💬 Ask me about
-
-Feel free to ask about mobile development, ML, or anything else within my field of expertise. I'm always happy to engage in conversation.
-
-## 📫 How to reach me
-
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/andrea-paparella-375087193/)
-- Email: andreapaparella23@gmail.com
+- **Working On:** [A mobile app that simplifies complex topics into easy-to-read summaries.](https://impara.typedream.app/)
+- **Learning:** Golang and Flutter.
+- **Collaborate:** Open to web/mobile development and ML projects.
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -46,4 +30,4 @@ Feel free to ask about mobile development, ML, or anything else within my field 
 
 ## 🎉 Fun Fact
 
-I have a keen interest in geopolitics and enjoy engaging in discussions about international relations.
+Love geopolitics and international relations discussions.
