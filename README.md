@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Andrew
 
-Software engineer passionate about mobile/web development, ML, and multi-GPU computing. Pursuing M.Sc in Computer Science at Politecnico di Milano and the University of Illinois at Chicago.
+Software engineer @ [Impara](https://www.impara.net) abd Researcher @ [BiAffect](https://www.biaffect.com).
 
-- **Working On:** [A mobile app that simplifies complex topics into easy-to-read summaries.](https://impara.typedream.app/)
-- **Learning:** Golang and Flutter.
-- **Collaborate:** Open to web/mobile development and ML projects.
+- **Currenlty learning:** Go, Flutter, Swift.
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
 ## 🛠️ Technologies & Tools
