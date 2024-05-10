@@ -15,6 +15,7 @@ Software Engineer @ [Impara](https://www.impara.net) and AI Researcher @ [BiAffe
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
