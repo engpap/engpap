@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Andrew
 
-Software Engineer @ [Impara](https://www.impara.net) and AI Researcher @ [BiAffect](https://www.biaffect.com).
+Software Engineer @ [BiAffect](https://www.biaffect.com) - Prev @ @ [Impara](https://www.impara.net)
 
-- **Currenlty learning:** Go, Flutter, Swift.
+- **Currenlty learning:** Swift
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
 ## 🛠️ Technologies & Tools
