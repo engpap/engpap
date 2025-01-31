@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Andrew
 
-Software Engineer @ [BiAffect](https://www.biaffect.com) - Prev @ @ [Impara](https://www.impara.net)
+Software Engineer @ [BiAffect](https://www.biaffect.com) - Prev @ [Impara](https://www.impara.net)
 
 - **Currenlty learning:** Swift
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
