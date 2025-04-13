@@ -1,28 +1,36 @@
 # Hi there 👋, I'm Andrew
 
-Software Engineer @ [BiAffect](https://www.biaffect.com) - Prev @ [Impara](https://www.impara.net)
+Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](https://www.impara.net)
 
-- **Currenlty learning:** Swift
+- **Currently learning:** Swift  
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
-## 🛠️ Technologies & Tools
+## 🛠️ Selected Projects
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-![VHDL](https://img.shields.io/badge/-VHDL-543978?style=flat)
+### 🕹️ Full-Stack & Systems Software
+- [eriantys-board-game](https://github.com/engpap/eriantys-board-game)  
+- [favor](https://github.com/engpap/favor)
 
-## 🎉 Fun Fact
+### 🧩 Optimization & Algorithms
+- [graph-ranker](https://github.com/engpap/graph-ranker)  
+- [montecarlo-benchmarking](https://github.com/engpap/montecarlo-benchmarking)
 
-Love geopolitics and international relations discussions.
+### 🧠 Machine Learning & AI
+- [rec-sys-challenge](https://github.com/engpap/rec-sys-challenge)  
+- [molecular-binary-classification](https://github.com/engpap/molecular-binary-classification)  
+- [visi-solve](https://github.com/engpap/visi-solve)
+
+### ⚙️ Distributed Systems & Data Engineering
+- [iot-group-tracker-spark](https://github.com/engpap/iot-group-tracker-spark)  
+- [evaluation-sys-kafka](https://github.com/engpap/evaluation-sys-kafka)  
+- [kafka-wrapper-go](https://github.com/engpap/kafka-wrapper-go)
+
+### 🔐 Security
+- [blind-SQL-injection](https://github.com/engpap/blind-SQL-injection)  
+- [hacking-toolkit](https://github.com/engpap/hacking-toolkit)
+
+### 🥽 Augmented Reality
+- [glassy](https://github.com/engpap/glassy)
+
+### 🧪 Hardware & Low-Level Systems
+- [binary-divider](https://github.com/engpap/binary-divider)
