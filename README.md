@@ -2,7 +2,7 @@
 
 Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](https://www.impara.net)
 
-- **Currently learning:** Swift  
+- **Currently working with:** Swift, Python
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
 ## 🛠️ Selected Projects
