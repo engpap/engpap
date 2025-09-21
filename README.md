@@ -7,7 +7,7 @@ Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](htt
 
 ## 🛠️ Selected Projects
 
-### 🕹️ Full-Stack & Systems Software
+### 🕹️ Full-Stack Apps
 - [eriantys-board-game](https://github.com/engpap/eriantys-board-game)  
 - [favor](https://github.com/engpap/favor)
 
@@ -15,7 +15,7 @@ Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](htt
 - [graph-ranker](https://github.com/engpap/graph-ranker)  
 - [montecarlo-benchmarking](https://github.com/engpap/montecarlo-benchmarking)
 
-### 🧠 Machine Learning & AI
+### 🧠 Machine Learning
 - [rec-sys-challenge](https://github.com/engpap/rec-sys-challenge)  
 - [molecular-binary-classification](https://github.com/engpap/molecular-binary-classification)  
 - [visi-solve](https://github.com/engpap/visi-solve)
