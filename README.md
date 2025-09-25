@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Andrew
+# Hi, I'm Andrew
 
 Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](https://www.impara.net)
 
