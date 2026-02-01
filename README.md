@@ -1,8 +1,8 @@
 # Hi, I'm Andrew
 
-Software Engineer @ [BiAffect](https://www.biaffect.com) — Prev @ [Impara](https://www.impara.net)
+iOS Engineer @ [TRACTIAN](https://www.tractian.com) — Prev @ [BiAffect](https://www.biaffect.com), [Impara](https://www.impara.net)
 
-- **Currently working with:** Swift, Python
+- **Currently working with:** Swift, iOS, Python
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/drepaparella/) | Email: tech.paparella@gmail.com
 
 ## 🛠️ Selected Projects
